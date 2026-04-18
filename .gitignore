@@ -1,0 +1,16 @@
+# Report output directories
+europlan_report/
+europlan_report2/
+dimix_report/
+output/
+*_report/
+*_report2/
+
+# Job description
+jobdescription.md
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
